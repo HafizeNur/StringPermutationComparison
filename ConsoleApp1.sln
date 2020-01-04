@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringPermutationsComparison", "ConsoleApp1\StringPermutationsComparison.csproj", "{5CC6A64C-59CF-42A3-BC2E-55DD86B15963}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC6A64C-59CF-42A3-BC2E-55DD86B15963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC6A64C-59CF-42A3-BC2E-55DD86B15963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC6A64C-59CF-42A3-BC2E-55DD86B15963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC6A64C-59CF-42A3-BC2E-55DD86B15963}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD8E8018-D6BE-428A-B599-F2521E56D602}
+	EndGlobalSection
+EndGlobal
